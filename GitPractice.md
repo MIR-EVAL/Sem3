@@ -31,6 +31,5 @@
 
  14. **git checkout branch name** - переход на новую ветку
 
-
-
+ 15. _git merge_ - слияние веток
  
